@@ -1,0 +1,25 @@
+{
+  "name": "nogix",
+  "type":"module",
+  "version": "0.0.1",
+  "description": "A lightweight harness for coding and working.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-ridge-labs/nogix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cloud-ridge-labs/nogix/issues"
+  },
+  "homepage": "https://github.com/cloud-ridge-labs/nogix#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
